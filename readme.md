@@ -27,8 +27,11 @@ El dataset contiene información de clientes y suscripciones, con columnas como:
 ## 📁 Estructura del proyecto
 
 ├── images/ # Carpeta donde se guardan los gráficos generados
+
 ├── TelecomX_LATAM,ipynb/ # Notebook con el análisis exploratorio y visualizaciones
+
 ├── TelecomX_DATA.json/ # Dataset original y limpio 
+
 ├── README.md # Este archivo
 
 
